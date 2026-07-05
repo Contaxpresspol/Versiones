@@ -1,0 +1,2 @@
+constancia=https://wwwmat.sat.gob.mx/aplicacion/login/53027/genera-tu-constancia-de-situacion-fiscal
+opinion=https://www.sat.gob.mx/portal/public/tramites/opinion-del-cumplimiento
