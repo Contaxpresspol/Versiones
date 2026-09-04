@@ -1,2 +1,3 @@
-Nueva version 6.0.0 : Se recomienda dar lectura de nuevo a sus xml en las pestañas Emitidos y Recibidos , para actualizar serie, folio y otros datos fiscales. 
+Nueva version 6.0.0 : Se Recomienda dar lectura de nuevo a sus XML en las pestañas Emitidos y Recibidos , para actualizar serie, folio y otros datos fiscales. 
+                      Es un proceso simple y rapido que mantendra sus datos actualizados.
                       
