@@ -1,3 +1,4 @@
-Nueva version 6.0.0 : Se Recomienda dar lectura de nuevo a sus XML en las pestañas Emitidos y Recibidos , para actualizar serie, folio y otros datos fiscales. 
-                      Es un proceso simple y rapido que mantendra sus datos actualizados.
+Nueva version 6.0.5 : Se actualizó el proceso de CobranzaSAT (PUE-PPD) para la determinación de ingresos.
+Recuerda: este reporte muestra los ingresos que deberían reflejarse en el SAT. Proximamente se ajustarán los Egresos.
+---Ademas se hicieron ajustes en Descarga de XML--- 
                       
