@@ -3,7 +3,7 @@
 💡 Revise los XML cancelados al contabilizar Emitidos (Ventas y Notas de Crédito), especialmente al cierre de mes.
 
 📌BUSQUEDA DE ESTATUS "CANCELADO" Y VALIDACIÓN DE CANTIDAD DE XML DEL PERIODO
-💡 Para llenar el listado de XML cancelados basta con ejecutar la búsqueda en "XML Descarga". No es necesario descargar nuevamente los XML.
+💡 El listado de XML cancelados, se llena consultando en "XML Descarga". Basta con ejecutar las búsquedas. No es necesario descargar nuevamente los XML.
 💡 Después de descargar XML, verifique que "Total Encontrado" y "Total según SAT" sean iguales. Si existe alguna diferencia, ejecute nuevamente la búsqueda.
 💡 Ante cualquier inconsistencia en el apartado Descarga de XML, cierre la aplicación y vuelva a abrirla. EL proceso depende de los servicios del SAT.
 
