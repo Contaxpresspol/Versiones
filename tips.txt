@@ -1,12 +1,12 @@
 📌AGILIDAD EN LECTURA Y REGISTRO DE VENTAS
 
-💡 Si no requiere el desglose de productos en las pólizas de ventas, configure la opción "Contabilizar ventas por producto" en "No".
+💡 Si no requiere el desglose de productos en las pólizas de ventas, en Configuración  elija "No" en "Pólizas Ventas por producto".
 💡 Revise los XML cancelados al contabilizar Emitidos (Ventas y Notas de Crédito), especialmente al cierre de mes.
 
 
-📌BUSQUEDA DE ESTATUS "CANCELADO" Y VALIDACIÓN DE XML DEL PERIODO
+📌BUSQUEDA DE ESTATUS "CANCELADO" Y VALIDACIÓN DE CANTIDAD DE XML DEL PERIODO
 
-💡 Para llenar el listado de XML cancelados basta con ejecutar la búsqueda. No es necesario descargar nuevamente los XML.
+💡 Para llenar el listado de XML cancelados basta con ejecutar la búsqueda en "XML Descarga". No es necesario descargar nuevamente los XML.
 💡 Después de descargar XML, verifique que "Total Encontrado" y "Total según SAT" sean iguales. Si existe alguna diferencia, ejecute nuevamente la búsqueda.
 💡 Ante cualquier inconsistencia en el apartado Descarga de XML, cierre la aplicación y vuelva a abrirla. Este proceso depende de la disponibilidad de los servicios del SAT.
 
