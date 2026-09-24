@@ -1,23 +1,20 @@
 📌AGILIDAD EN LECTURA Y REGISTRO DE VENTAS
-
 💡 Si no requiere el desglose de productos en las pólizas de ventas, en Configuración  elija "No" en "Pólizas Ventas por producto".
 💡 Revise los XML cancelados al contabilizar Emitidos (Ventas y Notas de Crédito), especialmente al cierre de mes.
 
-
 📌BUSQUEDA DE ESTATUS "CANCELADO" Y VALIDACIÓN DE CANTIDAD DE XML DEL PERIODO
-
 💡 Para llenar el listado de XML cancelados basta con ejecutar la búsqueda en "XML Descarga". No es necesario descargar nuevamente los XML.
 💡 Después de descargar XML, verifique que "Total Encontrado" y "Total según SAT" sean iguales. Si existe alguna diferencia, ejecute nuevamente la búsqueda.
-💡 Ante cualquier inconsistencia en el apartado Descarga de XML, cierre la aplicación y vuelva a abrirla. Este proceso depende de la disponibilidad de los servicios del SAT.
-
+💡 Ante cualquier inconsistencia en el apartado Descarga de XML, cierre la aplicación y vuelva a abrirla. EL proceso depende de los servicios del SAT.
 
 📌DESGLOSE POR PRODUCTO Y FACTURAS SIN XML
-
 💡 En pagos de IMSS puede seleccionar el proveedor correspondiente por producto para contabilizar IMSS y SAR en cuentas separadas.
 💡 Puede registrar facturas tipo "+SinCFDI" para gastos sin comprobante fiscal, por ejemplo Infonavit, agua, luz u otros gastos administrativos.
 
-
 📌AGILIDAD EN REGISTRO DE PAGOS
-
-💡 Puede registrar pagos rápidamente dando doble clic sobre cada comprobante. Al finalizar, filtre los comprobantes pagados y asigne las cuentas de compras o gastos correspondientes.
-💡 También puede buscar por RFC, folio, concepto o por fechas utilizando la opción "Búsqueda por fechas". Esto ayuda a evitar asignar pagos a facturas antiguas o fuera del periodo de trabajo.
+💡 Puede registrar pagos rápidamente dando doble clic en "PagoParcia" sobre cada comprobante. Puede dejar pendiente las cuentas,
+    y al finalizar, dé clic a "Ver Facts con Pago" y asigne las cuentas de compras o gastos faltantes.
+💡 También puede buscar por RFC, folio, concepto o por fechas utilizando la opción "Búsqueda por fechas".
+    Esto ayuda a evitar asignar pagos a facturas antiguas o fuera del periodo de trabajo.
+💡 Recuerde que puede filtrar busqueda por CFDI de pagos con el boton "Leer Pagos.  Esto le ahorrá mucho tiempo en pagos/depósitos 
+    cuando son varias facturas, además de contar con el uuid de pago en el registro.
