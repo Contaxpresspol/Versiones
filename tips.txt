@@ -19,8 +19,8 @@
 💡 Puede registrar facturas tipo "+SinCFDI" para gastos sin comprobante fiscal, por ejemplo Infonavit, agua, luz u otros gastos administrativos.
 
 📌AGILIDAD EN REGISTRO DE PAGOS
-💡 Puede registrar pagos rápidamente dando doble clic en "PagoParcia" sobre cada comprobante. Puede dejar pendiente las cuentas,
-    y al finalizar, dé clic a "Ver Facts con Pago" y asigne las cuentas de compras o gastos faltantes.
+💡 Puede registrar pagos rápidamente, con la "Vista Saldos" y dando doble clic en "PagoParcia" sobre cada comprobante. Puede dejar pendiente 
+   las cuentas, y al finalizar, dé clic a "Ver Facts con Pago" y asigne las cuentas de compras o gastos faltantes.
 💡 También puede buscar por RFC, folio, concepto o por fechas utilizando la opción "Búsqueda por fechas".
     Esto ayuda a evitar asignar pagos a facturas antiguas o fuera del periodo de trabajo.
 💡 Recuerde que puede filtrar busqueda por CFDI de pagos con el boton "Leer Pagos.  Esto le ahorrá mucho tiempo en pagos/depósitos 
