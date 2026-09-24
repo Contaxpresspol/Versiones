@@ -7,6 +7,13 @@
 💡 Después de descargar XML, verifique que "Total Encontrado" y "Total según SAT" sean iguales. Si existe alguna diferencia, ejecute nuevamente la búsqueda.
 💡 Ante cualquier inconsistencia en el apartado Descarga de XML, cierre la aplicación y vuelva a abrirla. EL proceso depende de los servicios del SAT.
 
+📌COPIADO Y PEGADO DE CUENTAS Y ASIGNACION DE CUENTAS POR RFC
+💡Recuerde que puede copiar una cuenta contable con Control+C y ,seleccionar una o varias celdas para pegarla con Control+V.
+💡Puede asignar cuentas alos RFC de los proveedores y cuando lo requeira asignarla con el boton "Asignar Cuentas y CC por Prov".
+
+📌VER PDF Y XML
+💡Con doble clic en el UUID se abrirá el pdf y con Control + clic en el mismo uuid se abrira el XML.
+
 📌DESGLOSE POR PRODUCTO Y FACTURAS SIN XML
 💡 En pagos de IMSS puede seleccionar el proveedor correspondiente por producto para contabilizar IMSS y SAR en cuentas separadas.
 💡 Puede registrar facturas tipo "+SinCFDI" para gastos sin comprobante fiscal, por ejemplo Infonavit, agua, luz u otros gastos administrativos.
