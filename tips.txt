@@ -2,7 +2,7 @@
 💡 Si no requiere el desglose de productos en las pólizas de ventas, en Configuración  elija "No" en "Pólizas Ventas por producto".
 💡 Revise los XML cancelados al contabilizar Emitidos (Ventas y Notas de Crédito), especialmente al cierre de mes.
 
-📌BUSQUEDA DE ESTATUS "CANCELADO" Y VALIDACIÓN DE CANTIDAD DE XML DEL PERIODO
+📌BUSQUEDA DE ESTATUS "CANCELADO" Y VERIFICACION DE CANTIDAD DE XML DEL PERIODO SEGUN SAT.
 💡 El listado de XML cancelados, se llena consultando en "XML Descarga". Basta con ejecutar las búsquedas. No es necesario descargar nuevamente los XML.
 💡 Después de descargar XML, verifique que "Total Encontrado" y "Total según SAT" sean iguales. Si existe alguna diferencia, ejecute nuevamente la búsqueda.
 💡 Ante cualquier inconsistencia en el apartado Descarga de XML, cierre la aplicación y vuelva a abrirla. EL proceso depende de los servicios del SAT.
@@ -15,8 +15,9 @@
 💡Con doble clic en el UUID se abrirá el pdf y con Control + clic en el mismo uuid se abrira el XML.
 
 📌DESGLOSE POR PRODUCTO Y FACTURAS SIN XML
-💡 En pagos de IMSS puede seleccionar el proveedor correspondiente por producto para contabilizar IMSS y SAR en cuentas separadas.
-💡 Puede registrar facturas tipo "+SinCFDI" para gastos sin comprobante fiscal, por ejemplo Infonavit, agua, luz u otros gastos administrativos.
+💡 En pagos de IMSS puede seleccionar en listado de proveedores "por producto" para contabilizar IMSS y SAR en cuentas separadas.
+💡 Puede capturar facturas de gastos sin XML con botón "+SinCFDI" ,por ejemplo Infonavit, agua, luz u otros gastos administrativos.
+💡 Si marca un nuevo proveedor "Por Producto" , debe leer nuevamente los xml para extraer los conceptos de dicho proveedor.
 
 📌AGILIDAD EN REGISTRO DE PAGOS
 💡 Puede registrar pagos rápidamente, con la "Vista Saldos" y dando doble clic en "PagoParcia" sobre cada comprobante. Puede dejar pendiente 
