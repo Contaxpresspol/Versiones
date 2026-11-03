@@ -1,4 +1,1 @@
-Nueva version 6.0.7 : -Se actualizó el proceso de CobranzaSAT (PUE-PPD) para la determinación de ingresos.
-                       -Recuerda: este reporte muestra los ingresos que deberían reflejarse en el SAT.
-                       -Se hicieron ajustes en extraccion de bases de los XML. 
-                      
+Nueva version 6.1.4 : -Correccion a carga de sellos digitales para facturacion.
