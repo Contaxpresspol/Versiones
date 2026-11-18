@@ -1,1 +1,1 @@
-Nueva version 6.1.4 : -Correccion a carga de sellos digitales para facturacion.
+Nueva version 6.2.2 : -Agregado boton para revertir cancelaciones XML Ventas por error.
