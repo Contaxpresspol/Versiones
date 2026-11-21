@@ -1,1 +1,2 @@
-Nueva version 6.2.2 : -Agregado boton para revertir cancelaciones XML Ventas por error.
+Nueva version 6.3.0.0 6.2.2 : -Ofrecemos más por tu dinero , revisa las novedeades al actualizar tu sistema.
+                               Estamos agregando funciones y detalles para ofrecerte todo en un solo sistema.
