@@ -1,2 +1,4 @@
-Nueva version 6.3.0.0 6.2.2 : -Ofrecemos más por tu dinero, revisa el pdf "Novedades" al actualizar tu sistema.
-                               Estamos agregando funciones y detalles para ofrecer TODO en un solo sistema.
+Nueva version 6.3.0.0 6.2.2 : -Estimado Usuario : Ofrecemos más por tu dinero, revisa el pdf "Novedades" al actualizar tu sistema.
+                               Estamos agregando funciones y detalles para ofrecer TODO en un solo sistema. Las actualizaciónes
+                               frecuentes son para prevenir errores contables y darte mejores reportes, no modifican tu informacion y 
+                               son rápidass.
